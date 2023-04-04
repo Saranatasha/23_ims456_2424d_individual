@@ -1,4 +1,19 @@
 h1
 {
-    color:chocolate
+    color:rgb(255, 20, 157)
+}
+
+a
+
+{
+    text-decoration: none;
+    font-family: Impact;
+    padding:10;
+    font-size: 16pt;
+
+}
+a:hover
+{
+    color:blue
+    font-size: 18pt;
 }
